@@ -1,0 +1,18 @@
+PLUGIN_AUTOPLAY
+	EN	AutoPlay
+
+PLUGIN_AUTOPLAY_DESC
+	EN	Start playack when powered on
+
+PLUGIN_AUTOPLAY_ENABLE
+	EN	Enable auto-playing
+
+PLUGIN_AUTOPLAY_ENABLE_DESC
+	EN	Start playback when player is powered on
+	
+PLUGIN_AUTOPLAY_DISABLING
+	EN	Disabling auto-playback on power on
+
+PLUGIN_AUTOPLAY_DISABLING
+	EN	Enabling auto-playback on power on
+
