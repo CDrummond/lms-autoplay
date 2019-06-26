@@ -45,6 +45,7 @@ sub initPlugin {
 
 sub shutdownPlugin {
     Slim::Control::Request::unsubscribe(\&clientPower);
+    Slim::Control::Request::unsubscribe(\&clientNew);
     Slim::Control::Request::unsubscribe(\&clientConnect);
 }
 
