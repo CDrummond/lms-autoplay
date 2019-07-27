@@ -38,7 +38,7 @@ sub prefs {
 sub handler {
     my ($class, $client, $params) = @_;
     $log->debug("AutoPlay::PlayerSettings->handler() called. " . $client->name());
-    Plugins::AutoPlay::Plugin->extSetDefaults($client, 0);
+    #Plugins::AutoPlay::Plugin->extSetDefaults($client, 0);
     if ($params->{'saveSettings'}) {
         $params->{'pref_enabled'} = 0 unless defined $params->{'pref_enabled'};
     }
