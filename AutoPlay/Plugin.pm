@@ -1,5 +1,14 @@
 package Plugins::AutoPlay::Plugin;
 
+#
+# LMS-AutoPlay
+#
+# Copyright (c) 2019-2020 Craig Drummond <craig.p.drummond@gmail.com>
+#
+# MIT license.
+#
+
+
 use strict;
 
 use base qw(Slim::Plugin::Base);
