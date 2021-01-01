@@ -3,7 +3,7 @@ package Plugins::AutoPlay::PlayerSettings;
 #
 # LMS-AutoPlay
 #
-# Copyright (c) 2019-2020 Craig Drummond <craig.p.drummond@gmail.com>
+# Copyright (c) 2019-2021 Craig Drummond <craig.p.drummond@gmail.com>
 #
 # MIT license.
 #
